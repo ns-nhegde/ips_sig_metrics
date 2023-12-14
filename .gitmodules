@@ -1,0 +1,3 @@
+[submodule "ips_sig_parse"]
+	path = ips_sig_parse
+	url = https://github.com/ns-nhegde/ips_sig_parse
